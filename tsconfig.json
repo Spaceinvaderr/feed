@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "typeRoots": [
+            "./node_modules/@types"
+        ]
+    },
+    
+    "files":[
+        "app.ts"
+    ],
+    
+    "include": [
+
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
